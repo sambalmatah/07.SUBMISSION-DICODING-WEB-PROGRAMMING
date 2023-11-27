@@ -1,10 +1,15 @@
 
 /* FONT M PLUS 1p */
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,200&family=Quicksand:wght@400;700&display=swap');
 
 /* FONT IBM Plex Serif */
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,200&family=Quicksand:wght@400;700&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=M+PLUS+1p:wght@100;400;700&display=swap');
+
 
 *, *::after, *::before {
     box-sizing: border-box;
+}
+
+body {
+    font-family: "M PLUS 1p", sans-serif;
 }
