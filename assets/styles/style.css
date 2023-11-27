@@ -5,3 +5,6 @@
 /* FONT IBM Plex Serif */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,200&family=Quicksand:wght@400;700&display=swap');
 
+*, *::after, *::before {
+    box-sizing: border-box;
+}
